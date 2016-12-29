@@ -5,6 +5,5 @@ public class Application {
 		System.out.println("Hello World\n");
 		
 		int myNumber;
-		int myNumber2;
 	}
 }

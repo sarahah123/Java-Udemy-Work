@@ -15,6 +15,5 @@ INDEX VERSION 1.126+C:\Users\Sarah\Documents\Java Udemy work\.metadata\.plugins\
 2510231558.index
 3798027613.index
 4237124220.index
-2123777577.index
 3878781299.index
 1891729548.index
