@@ -5,7 +5,7 @@ public class Application {
 
 		Scanner input = new Scanner(System.in);
 
-		System.out.println("Please eneter a command: ");
+		System.out.println("Please enter a command: ");
 		String text = input.nextLine();
 
 		switch (text) {
@@ -20,7 +20,6 @@ public class Application {
 		default:
 			System.out.println("Command not recognized.");
 		}
-		
 		
 	}
 }
