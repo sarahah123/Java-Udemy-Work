@@ -1,6 +1,6 @@
 
 public class Machine {
-	public String type = "TV";
+	private String type = "TV";
 	
 	public void start(String name){
 		System.out.println(name + " started.");

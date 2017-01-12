@@ -13,7 +13,6 @@ public class App {
 		car1.start("Car");
 		car1.wipeWindShield();
 		car1.stop();
-		
-		System.out.println(car1.type);
+
 	}
 }
