@@ -12,6 +12,7 @@ public class App {
 		
 		car1.start("Car");
 		car1.wipeWindShield();
+		car1.showInfo();
 		car1.stop();
 
 	}
